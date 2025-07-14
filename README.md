@@ -1,4 +1,4 @@
-## Hi there 👋
+[![My github stats](https://github-readme-stats.vercel.app/api?username=idr0id&show_icons=true&theme=dracula&count_private=true)](https://github.com/idr0id)
 
 <!--
 **idr0id/idr0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
